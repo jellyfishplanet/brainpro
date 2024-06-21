@@ -1,0 +1,10 @@
+{
+  "Brainpro.get_Attention_Value|block": "Attention %level",
+  "Brainpro.value_level.high": "Attention greater than 65",
+  "Brainpro.value_level.high|block": "high",
+  "Brainpro.value_level.low": "Attention greater than 35",
+  "Brainpro.value_level.low|block": "low",
+  "Brainpro.value_level.middle": "Attention greater than 50",
+  "Brainpro.value_level.middle|block": "middle",
+  "{id:category}Brainpro": "Brainpro"
+}

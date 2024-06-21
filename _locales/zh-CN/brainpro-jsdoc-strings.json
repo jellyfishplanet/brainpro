@@ -1,0 +1,6 @@
+{
+  "Brainpro.value_level.high": "专注度大于65",
+  "Brainpro.value_level.low": "专注度大于35",
+  "Brainpro.value_level.middle": "专注度大于50",
+  "Brainpro.get_Attention_Value": "低：专注度大于35；中：专注度大于50；高：专注度大于65；"
+}
